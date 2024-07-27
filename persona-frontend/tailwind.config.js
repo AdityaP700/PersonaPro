@@ -9,7 +9,8 @@ export default {
       fontFamily:{
         'poppins' : ['Poppins', 'sans-serif'],
         'edu' : ["Edu AU VIC WA NT Hand", 'cursive'],
-        'nunito' : ["Nunito", 'sans-serif']
+        'nunito' : ["Nunito", 'sans-serif'],
+        'roboto' : ["Roboto Mono", "Monospace"]
       },
       animation: {
         tilt: 'tilt 3s linear infinite'
